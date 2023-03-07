@@ -4,73 +4,73 @@
     
         "id": 1,
         "name": "Paris",
-        "restaurant": "",
-        "image": "",
+        "mainDish": "Le bœuf bourguignon",
+        "image": "https://static.nationalgeographic.co.uk/files/styles/image_3200/public/deconstruct_opener_hr_web.jpg?w=1600",
         "rating": 9,
-        "comment": "The perfect place for romance"
+        "hotSpot": "The perfect place for romance"
     }
     {
     
         "id": 2,
         "name": "Japan",
-        "restaurant": "",
-        "image": "",
+        "mainDish": "sushi",
+        "image": "https://www.tasteatlas.com/images/toplistarticles/8cc45833c34a4bc99d85375ecfde18f6.jpg",
         "rating": 8,
-        "comment": "A wonderful place to explore"
+        "hotSpot": "A wonderful place to explore"
     }
     {
     
         "id": 3,
-        "name": "Russia",
-        "restaurant": "",
-        "image": "",
+        "name": "CapeTown",
+        "mainDish": "Bobotie",
+        "image": "https://www.sbs.com.au/food/sites/sbs.com.au.food/files/rx063_beef_mince_4_of_6.jpg",
         "rating": 7,
-        "comment": "Great place for a history lesson"
+        "hotSpot": "Great place for a history lesson"
     }
     {
     
         "id": 4,
-        "name": "Africa",
-        "restaurant": "",
+        "name": "Santorini",
+        "mainDish": "",
         "image": "",
         "rating": 8,
-        "comment": "The land with everything in reach"
+        "hotSpot": "The land with everything in reach"
     }
     {
     
         "id": 5,
         "name": "Bora Bora",
-        "restaurant": "",
-        "image": "",
+        "mainDish": "Poisson cru",
+        "image": "https://media-cdn.tripadvisor.com/media/photo-s/05/33/9b/07/hilton-moorea-lagoon.jpg",
         "rating": 10,
-        "comment": "The perfect place!!!"
+        "hotSpot": "The perfect place!!!"
     }
     {
     
         "id": 6,
         "name": "Aruba",
-        "restaurant": "",
+        "mainDish": "",
         "image": "",
         "rating": 7,
-        "comment": "perfect island to relax"
+        "hotSpot": "perfect island to relax"
     }
     {
     
         "id": 7,
         "name": "New York",
-        "restaurant": "",
+        "mainDish": "",
         "image": "",
         "rating": 6,
-        "comment": ""
+        "hotSpot": ""
     }
     {
     
         "id": 8,
-        "name": "The subway",
-        "restaurant": "",
+        "name": "Tuscany",
+        "mainDish": "old bitten pizza",
         "image": "",
         "rating": 0.5,
-        "comment": ""
+        "hotSpot": "42nd street"
     }
 
 ]
