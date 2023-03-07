@@ -8,16 +8,17 @@
         "image": "",
         "rating": 9,
         "comment": "The perfect place for romance"
-    }
-    {
+    },
     
+    {
         "id": 2,
         "name": "Japan",
         "restaurant": "",
         "image": "",
         "rating": 8,
         "comment": "A wonderful place to explore"
-    }
+    },
+
     {
     
         "id": 3,
@@ -26,7 +27,8 @@
         "image": "",
         "rating": 7,
         "comment": "Great place for a history lesson"
-    }
+    },
+    
     {
     
         "id": 4,
@@ -35,7 +37,8 @@
         "image": "",
         "rating": 8,
         "comment": "The land with everything in reach"
-    }
+    },
+
     {
     
         "id": 5,
@@ -44,7 +47,8 @@
         "image": "",
         "rating": 10,
         "comment": "The perfect place!!!"
-    }
+    },
+
     {
     
         "id": 6,
@@ -53,7 +57,8 @@
         "image": "",
         "rating": 7,
         "comment": "perfect island to relax"
-    }
+    },
+
     {
     
         "id": 7,
@@ -62,7 +67,8 @@
         "image": "",
         "rating": 6,
         "comment": ""
-    }
+    },
+
     {
     
         "id": 8,
