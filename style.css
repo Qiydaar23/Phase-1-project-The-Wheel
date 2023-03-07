@@ -170,6 +170,14 @@ body {
         }
       }
 
+   /* Styling code that Lee tried out 3/7/23 */   
+.commentBox {
+  position: static;
+  bottom: 100;
+  left: 100;
+  top: 300;
+}
+
 
 
 
