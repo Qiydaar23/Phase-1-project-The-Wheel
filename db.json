@@ -7,16 +7,15 @@
         "mainDish": "Le bœuf bourguignon",
         "image": "https://static.nationalgeographic.co.uk/files/styles/image_3200/public/deconstruct_opener_hr_web.jpg?w=1600",
         "rating": 9,
-        "hotSpot": "The perfect place for romance"
+        "comment": "The perfect place for romance"
     }
     {
-    
         "id": 2,
         "name": "Japan",
         "mainDish": "sushi",
         "image": "https://www.tasteatlas.com/images/toplistarticles/8cc45833c34a4bc99d85375ecfde18f6.jpg",
         "rating": 8,
-        "hotSpot": "A wonderful place to explore"
+        "comment": "A wonderful place to explore"
     }
     {
     
@@ -25,7 +24,7 @@
         "mainDish": "Bobotie",
         "image": "https://www.sbs.com.au/food/sites/sbs.com.au.food/files/rx063_beef_mince_4_of_6.jpg",
         "rating": 7,
-        "hotSpot": "Great place for a history lesson"
+        "comment": "Great place for a history lesson"
     }
     {
     
@@ -34,7 +33,7 @@
         "mainDish": "",
         "image": "",
         "rating": 8,
-        "hotSpot": "The land with everything in reach"
+        "comment": "The land with everything in reach"
     }
     {
     
@@ -43,7 +42,7 @@
         "mainDish": "Poisson cru",
         "image": "https://media-cdn.tripadvisor.com/media/photo-s/05/33/9b/07/hilton-moorea-lagoon.jpg",
         "rating": 10,
-        "hotSpot": "The perfect place!!!"
+        "comment": "The perfect place!!!"
     }
     {
     
@@ -52,7 +51,7 @@
         "mainDish": "",
         "image": "",
         "rating": 7,
-        "hotSpot": "perfect island to relax"
+        "comment": "perfect island to relax"
     }
     {
     
@@ -61,7 +60,7 @@
         "mainDish": "",
         "image": "",
         "rating": 6,
-        "hotSpot": ""
+        "comment": ""
     }
     {
     
