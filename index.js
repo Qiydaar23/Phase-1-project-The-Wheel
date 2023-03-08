@@ -1,7 +1,5 @@
 
-// font-family: 'Climate Crisis', cursive;
-// font-family: 'Gentium Book Basic', serif;
-// font-family: 'M PLUS Rounded 1c', sans-serif;
+
 
 function spinWheel(){
     const min = 1024
@@ -19,16 +17,18 @@ function spinWheel(){
 }
 
 
-// const comment = document.getElementById("commentsList")
-
 function addComment(e) {
-    const comment = document.getElementById("commentsList")
+    e.preventDefault()
+    const comment = document.getElementById("scrollBox")
     const li = document.createElement("li")
     li.innerText = e.target.commentInput.value
 
     comment.append(li)
+
+    e.target.reset()
 }
 
+document.getElementById("form").addEventListener("submit", (e) => addComment(e))
 
 
 
@@ -36,15 +36,3 @@ function addComment(e) {
 
 
 
-//CODE FOR POPUP WINDOWS NOT NEEDED UNLESS WE DECIDE TO GET FANCY MY GUY
-/*document.querySelector('.spin-button').addEventListener('animationend', showPopup)
-
-document.querySelector('.spin-wheel').addEventListener('animationend', showPopup)
-
-/*function showPopup() {
-    document.getElementById('popup').style.display = 'block'
-}
-
-function hidePopup() {
-    document.getElementById('popup').style.display = 'none'
-}*/
