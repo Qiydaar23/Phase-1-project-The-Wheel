@@ -4,7 +4,6 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <link href="style.css" rel="stylesheet" type="text/css" />
-    <title>Your Next Vacation</title>
 </head>
 <body>
     <h1><center> Your Dream Vacation Awaits!<br>
@@ -12,10 +11,19 @@
         <div id="box" class="box">
             <div class="box1">
 
+
                 <span class="span1"><b>Paris</b></span>
                 <span class="span2"><b>Japan</b></span>
                 <span class="span3"><b>Bora Bora</b></span>
                 <span class="span4"><b>Cape Town</b></span>
+
+            </div>
+            <div class="box2">
+                <span class="span1"><b>Tuscany</b></span>
+                <span class="span2"><b>Santorini</b></span>
+                <span class="span3"><b>New York City</b></span>
+                <span class="span4"><b>Aruba</b></span>
+
             </div>
             <div class="box2">
                 <span class="span1"><b>Tuscany</b></span>
@@ -58,10 +66,15 @@
                     </a>
                 </span>
 
+
             </div>
         </div>
         <button class="spin-wheel" onclick="spinWheel()">SPIN</button>
     </div>
+
+    <div style="position: absolute; left: 30px;top: 550px;"  id="userComments">
+        <form id="form">
+
 
     <script defer src = "index.js" ></script>
 </body>
@@ -87,14 +100,17 @@
 
     <div id="userComments">
         <form>
+
             <input type="submit" name="submit" value="Add Comment">
+            <br>
             <input type="text" name="commentInput" placeholder="Your Comment Here..." >
             <br> <br>
     </form>
-    <div>
-        <ul id="commentsList">
-
-        </ul>
+    <div style="height: 180px;width:175px;border:1px solid #fdf9f9;font:16px/26px Georgia, 
+    Garamond, Serif;overflow:auto;position: absolute; left: -6px;top: -200px; background-color: #fdf9f9;" 
+    id="scrollBox">
+        
+        
     </div>
 
     </div>
