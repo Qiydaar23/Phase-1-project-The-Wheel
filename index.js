@@ -1,6 +1,3 @@
-// font-family: 'Climate Crisis', cursive;
-// font-family: 'Gentium Book Basic', serif;
-// font-family: 'M PLUS Rounded 1c', sans-serif;
 
 function spinWheel(){
     const min = 1024
@@ -13,4 +10,3 @@ function spinWheel(){
         element.classList.add("animate");
     }, 5000)
 }
-document.querySelector('.spin-button').addEventListener('animationend', showPopup)
