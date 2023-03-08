@@ -20,10 +20,13 @@ function spinWheel(){
     const element = document.getElementById("mainbox")
     element.classList.remove("animate")
 
+
+
     setTimeout(function(){
         element.classList.add("animate");
     }, 5000)
 }
+
 
 document.querySelector('.spin-button').addEventListener('animationend', showPopup)
 
@@ -69,4 +72,36 @@ function hidePopup() {
     }
     })
 
+
+
+
+// const comment = document.getElementById("commentsList")
+
+function addComment(e) {
+    const comment = document.getElementById("commentsList")
+    const li = document.createElement("li")
+    li.innerText = e.target.commentInput.value
+
+    comment.append(li)
+}
+
+
+
+
+
+
+
+
+//CODE FOR POPUP WINDOWS NOT NEEDED UNLESS WE DECIDE TO GET FANCY MY GUY
+/*document.querySelector('.spin-button').addEventListener('animationend', showPopup)
+
+document.querySelector('.spin-wheel').addEventListener('animationend', showPopup)
+
+/*function showPopup() {
+    document.getElementById('popup').style.display = 'block'
+}
+
+function hidePopup() {
+    document.getElementById('popup').style.display = 'none'
+}*/
 

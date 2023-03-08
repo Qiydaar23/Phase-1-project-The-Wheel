@@ -8,7 +8,11 @@
         "image": "https://static.nationalgeographic.co.uk/files/styles/image_3200/public/deconstruct_opener_hr_web.jpg?w=1600",
         "rating": 9,
         "comment": "The perfect place for romance"
+
     }
+
+    },
+    
     {
         "id": 2,
         "name": "Japan",
@@ -16,7 +20,8 @@
         "image": "https://www.tasteatlas.com/images/toplistarticles/8cc45833c34a4bc99d85375ecfde18f6.jpg",
         "rating": 8,
         "comment": "A wonderful place to explore"
-    }
+    },
+
     {
     
         "id": 3,
@@ -25,7 +30,8 @@
         "image": "https://www.sbs.com.au/food/sites/sbs.com.au.food/files/rx063_beef_mince_4_of_6.jpg",
         "rating": 7,
         "comment": "Great place for a history lesson"
-    }
+    },
+    
     {
     
         "id": 4,
@@ -34,7 +40,8 @@
         "image": "https://cdn77-s3.lazycatkitchen.com/wp-content/uploads/2016/10/greek-fava-vegan-1000x1500.jpg",
         "rating": 8,
         "comment": "The land with everything in reach"
-    }
+    },
+
     {
     
         "id": 5,
@@ -43,7 +50,8 @@
         "image": "https://media-cdn.tripadvisor.com/media/photo-s/05/33/9b/07/hilton-moorea-lagoon.jpg",
         "rating": 10,
         "comment": "The perfect place!!!"
-    }
+    },
+
     {
     
         "id": 6,
@@ -52,7 +60,8 @@
         "image": "https://claudia.abril.com.br/wp-content/uploads/2020/02/receita-de-aruba.jpg",
         "rating": 7,
         "comment": "perfect island to relax"
-    }
+    },
+
     {
     
         "id": 7,
@@ -60,8 +69,14 @@
         "mainDish": "",
         "image": "",
         "rating": 6,
+
         "comment": "city that never never never sleeps"
     }
+    
+        "comment": ""
+    },
+
+
     {
     
         "id": 8,
