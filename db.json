@@ -30,8 +30,8 @@
     
         "id": 4,
         "name": "Santorini",
-        "mainDish": "",
-        "image": "",
+        "mainDish": "Fava",
+        "image": "https://cdn77-s3.lazycatkitchen.com/wp-content/uploads/2016/10/greek-fava-vegan-1000x1500.jpg",
         "rating": 8,
         "comment": "The land with everything in reach"
     }
@@ -48,8 +48,8 @@
     
         "id": 6,
         "name": "Aruba",
-        "mainDish": "",
-        "image": "",
+        "mainDish": "Keshi Yena",
+        "image": "https://claudia.abril.com.br/wp-content/uploads/2020/02/receita-de-aruba.jpg",
         "rating": 7,
         "comment": "perfect island to relax"
     }
@@ -60,16 +60,16 @@
         "mainDish": "",
         "image": "",
         "rating": 6,
-        "comment": ""
+        "comment": "city that never never never sleeps"
     }
     {
     
         "id": 8,
         "name": "Tuscany",
-        "mainDish": "old bitten pizza",
-        "image": "",
-        "rating": 0.5,
-        "hotSpot": "42nd street"
+        "mainDish": "Pasta",
+        "image": "https://iamhomesteader.com/wp-content/uploads/2022/04/tuscan-chicken.jpg",
+        "rating": 8,
+        "comment": "Why not"
     }
 
 ]
